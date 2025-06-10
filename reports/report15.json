@@ -1,0 +1,11 @@
+{
+  "sample_id": "Patient 15",
+  "lab": "Lab 1",
+  "genes": [
+    {
+      "gene": "CYP2C19",
+      "diplotype": "*1/*1",
+      "phenotype": "CYP2C19 Normal Metabolizer"
+    }
+  ]
+}

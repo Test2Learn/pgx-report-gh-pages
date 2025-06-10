@@ -1,0 +1,15 @@
+{
+  "sample_id": "TEST002",
+  "genes": [
+    {
+      "gene": "CYP2C19",
+      "diplotype": "*1/*1",
+      "phenotype": "Normal Metabolizer"
+    },
+    {
+      "gene": "CYP2D6",
+      "diplotype": "*1/*2",
+      "phenotype": "Extensive Metabolizer"
+    }
+  ]
+}

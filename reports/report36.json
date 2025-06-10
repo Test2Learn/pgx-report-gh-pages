@@ -1,0 +1,16 @@
+{
+  "sample_id": "Patient 36",
+  "lab": "Lab 2",
+  "genes": [
+    {
+      "gene": "CYP2C19",
+      "diplotype": "*1/*1",
+      "phenotype": "CYP2C19 Normal Metabolizer"
+    },
+    {
+      "gene": "CYP2D6",
+      "diplotype": "*4/*4",
+      "phenotype": "CYP2D6 Poor Metabolizer (0.0)"
+    }
+  ]
+}

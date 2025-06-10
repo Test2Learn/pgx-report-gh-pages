@@ -1,0 +1,36 @@
+{
+  "sample_id": "Patient 68",
+  "lab": "Lab 3",
+  "genes": [
+    {
+      "gene": "CYP2C19",
+      "diplotype": "*1/*1",
+      "phenotype": "CYP2C19 Normal Metabolizer"
+    },
+    {
+      "gene": "CYP2D6",
+      "diplotype": "*1/*41",
+      "phenotype": "CYP2D6 Normal Metabolizer (1.25)"
+    },
+    {
+      "gene": "CYP2C9",
+      "diplotype": "*1/*2",
+      "phenotype": "CYP2C9 Intermediate Metabolizer (1.5)"
+    },
+    {
+      "gene": "DYPD",
+      "diplotype": "Reference/c.85T>C (*9A)",
+      "phenotype": "DPYD Normal Metabolizer (2.0)"
+    },
+    {
+      "gene": "SLCO1B1",
+      "diplotype": "*1/*14",
+      "phenotype": "SLCO1B1 Normal Function"
+    },
+    {
+      "gene": "VKORC1",
+      "diplotype": "Reference/Reference",
+      "phenotype": "VKORC1 Normal Warfarin Sensitivity"
+    }
+  ]
+}
